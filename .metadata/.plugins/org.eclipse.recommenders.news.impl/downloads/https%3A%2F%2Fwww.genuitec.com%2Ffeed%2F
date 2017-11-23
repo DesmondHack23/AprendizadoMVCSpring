@@ -12,12 +12,28 @@
 	<atom:link href="https://www.genuitec.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.genuitec.com</link>
 	<description>The Cloud Control Company</description>
-	<lastBuildDate>Tue, 21 Nov 2017 08:17:03 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 23 Nov 2017 09:57:06 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.6.1</generator>
 	<item>
+		<title>30% off sale, including Angular IDE and more!</title>
+		<link>https://www.genuitec.com/30-off-sale-including-angular-ide/</link>
+		<pubDate>Wed, 22 Nov 2017 19:33:38 +0000</pubDate>
+		<dc:creator><![CDATA[Rocio Trujillo]]></dc:creator>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[Promotions]]></category>
+		<category><![CDATA[coupon]]></category>
+		<category><![CDATA[promo]]></category>
+
+		<guid isPermaLink="false">https://www.genuitec.com/?p=543636</guid>
+		<description><![CDATA[<p>Step away from the leftovers and come take advantage of our Cyber Monday sale for Angular IDE, Webclipse, MyEclipse and more!   Thanksgiving is a great time for getting together with family, but perhaps more importantly, it’s about the SALES!  Whether it’s Buen Fin or Cyber Monday, we all love a bargain. Now is the time [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.genuitec.com/30-off-sale-including-angular-ide/">30% off sale, including Angular IDE and more!</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
+]]></description>
+		</item>
+		<item>
 		<title>Improving Java Performance</title>
 		<link>https://www.genuitec.com/improving-java-performance/</link>
 		<pubDate>Fri, 10 Nov 2017 20:28:13 +0000</pubDate>
@@ -291,32 +307,14 @@
 <p>The post <a rel="nofollow" href="https://www.genuitec.com/equifax-data-breach-advisory/">Equifax Data Breach Advisory</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
 ]]></description>
 		</item>
-		<item>
-		<title>Creating a Bus Fare Comparison App with Angular 4 and Node.js</title>
-		<link>https://www.genuitec.com/creating-bus-fare-comparison-app-angular-4-node-js/</link>
-		<pubDate>Fri, 08 Sep 2017 19:06:39 +0000</pubDate>
-		<dc:creator><![CDATA[Bob at Genuitec]]></dc:creator>
-				<category><![CDATA[Genuitec]]></category>
-		<category><![CDATA[MyEclipse]]></category>
-		<category><![CDATA[Programming Tips]]></category>
-		<category><![CDATA[Webclipse]]></category>
-		<category><![CDATA[angular 4 app]]></category>
-		<category><![CDATA[angular app]]></category>
-		<category><![CDATA[sample angular app]]></category>
-
-		<guid isPermaLink="false">https://www.genuitec.com/?p=536022</guid>
-		<description><![CDATA[<p>In this Angular tutorial, you will learn how to create an app to compare bus fares. We will be using Angular IDE to create our application, which will fetch bus fare data using goibibo&#8217;s web services.Creating a New Angular ProjectIn the new Angular project wizard, enter BusFareCompare as the project name. We used Angular CLI [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://www.genuitec.com/creating-bus-fare-comparison-app-angular-4-node-js/">Creating a Bus Fare Comparison App with Angular 4 and Node.js</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
-]]></description>
-		</item>
 	</channel>
 </rss>
 
 <!-- Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
 
-Object Caching 9461/9581 objects using disk
+Object Caching 9452/9789 objects using disk
 Page Caching using disk: enhanced (Requested URI is rejected)
 Content Delivery Network via resources.cloud.genuitec.com
-Database Caching 44/46 queries in 0.006 seconds using disk
+Database Caching 33/53 queries in 1.383 seconds using disk
 
- Served from: www.genuitec.com @ 2017-11-21 07:55:40 by W3 Total Cache -->
+ Served from: www.genuitec.com @ 2017-11-23 06:26:21 by W3 Total Cache -->
