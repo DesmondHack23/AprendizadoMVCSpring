@@ -6,8 +6,5 @@ INDEX VERSION 1.4+C:\Users\alexandre.barbosa\Documents\GitHub\AprendizadoMVCSpri
 3105259479.index
 821340871.index
 4092598361.index
-<<<<<<< HEAD
 1164607807.index
 2010010490.index
-=======
->>>>>>> parent of d612e26... layout implaments
