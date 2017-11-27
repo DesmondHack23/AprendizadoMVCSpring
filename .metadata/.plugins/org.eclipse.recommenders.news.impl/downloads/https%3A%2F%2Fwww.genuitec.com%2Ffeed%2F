@@ -12,12 +12,32 @@
 	<atom:link href="https://www.genuitec.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.genuitec.com</link>
 	<description>The Cloud Control Company</description>
-	<lastBuildDate>Thu, 23 Nov 2017 09:57:06 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 27 Nov 2017 13:08:42 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.6.1</generator>
 	<item>
+		<title>Gradle vs Maven &#8211; in Search for the Perfect Build Automation Tool</title>
+		<link>https://www.genuitec.com/gradle-vs-maven-search-perfect-build-automation-tool/</link>
+		<pubDate>Fri, 24 Nov 2017 17:54:35 +0000</pubDate>
+		<dc:creator><![CDATA[Wanda Muriy]]></dc:creator>
+				<category><![CDATA[Eclipse]]></category>
+		<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[MyEclipse]]></category>
+		<category><![CDATA[gradle]]></category>
+		<category><![CDATA[gradle features]]></category>
+		<category><![CDATA[gradle vs maven]]></category>
+		<category><![CDATA[maven]]></category>
+		<category><![CDATA[maven features]]></category>
+		<category><![CDATA[maven vs gradle]]></category>
+
+		<guid isPermaLink="false">https://www.genuitec.com/?p=543361</guid>
+		<description><![CDATA[<p>In your quest for the perfect build automation tool, you have probably come across Maven and Gradle &#8211; the two big players in the field. The decision here is no less tricky than picking just the right ingredients for that awesome holiday dish you might be thinking about preparing. Of course, each tool has its [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.genuitec.com/gradle-vs-maven-search-perfect-build-automation-tool/">Gradle vs Maven &#8211; in Search for the Perfect Build Automation Tool</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
+]]></description>
+		</item>
+		<item>
 		<title>30% off sale, including Angular IDE and more!</title>
 		<link>https://www.genuitec.com/30-off-sale-including-angular-ide/</link>
 		<pubDate>Wed, 22 Nov 2017 19:33:38 +0000</pubDate>
@@ -292,29 +312,14 @@
 <p>The post <a rel="nofollow" href="https://www.genuitec.com/2017-ci-8-keeps-adding-to-the-treasure-chest/">2017 CI 8 Keeps Adding to the Treasure Chest</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
 ]]></description>
 		</item>
-		<item>
-		<title>Equifax Data Breach Advisory</title>
-		<link>https://www.genuitec.com/equifax-data-breach-advisory/</link>
-		<pubDate>Fri, 15 Sep 2017 19:16:46 +0000</pubDate>
-		<dc:creator><![CDATA[Brian Fernandes]]></dc:creator>
-				<category><![CDATA[Genuitec]]></category>
-		<category><![CDATA[Programming Tips]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[security]]></category>
-
-		<guid isPermaLink="false">https://www.genuitec.com/?p=536886</guid>
-		<description><![CDATA[<p>Many of you may have heard of the Equifax data breach, possibly affecting millions of consumers. Information accessed by hackers during the incident included Social Security numbers, personal details, driver’s license numbers, and even credit card numbers.Equifax has confirmed that the breach was made possible by a vulnerability in the Apache Struts Web Framework, used [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://www.genuitec.com/equifax-data-breach-advisory/">Equifax Data Breach Advisory</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
-]]></description>
-		</item>
 	</channel>
 </rss>
 
 <!-- Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
 
-Object Caching 9452/9789 objects using disk
+Object Caching 9484/9829 objects using disk
 Page Caching using disk: enhanced (Requested URI is rejected)
 Content Delivery Network via resources.cloud.genuitec.com
-Database Caching 33/53 queries in 1.383 seconds using disk
+Database Caching 8/55 queries in 1.656 seconds using disk
 
- Served from: www.genuitec.com @ 2017-11-23 06:26:21 by W3 Total Cache -->
+ Served from: www.genuitec.com @ 2017-11-27 08:46:05 by W3 Total Cache -->
