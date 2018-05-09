@@ -1,10 +1,10 @@
 eclipse.preferences.version=1
-org.eclipse.cdt.make.ui.editor.comment=125,140,147
-org.eclipse.cdt.make.ui.editor.default=224,226,228
-org.eclipse.cdt.make.ui.editor.function=103,140,177
-org.eclipse.cdt.make.ui.editor.keyword=147,199,99
-org.eclipse.cdt.make.ui.editor.macro_def=232,226,183
-org.eclipse.cdt.make.ui.editor.macro_ref=232,226,183
+org.eclipse.cdt.make.ui.editor.comment=140,63,200
+org.eclipse.cdt.make.ui.editor.default=255,255,255
+org.eclipse.cdt.make.ui.editor.function=247,197,39
+org.eclipse.cdt.make.ui.editor.keyword=236,105,30
+org.eclipse.cdt.make.ui.editor.macro_def=241,196,56
+org.eclipse.cdt.make.ui.editor.macro_ref=241,196,56
 overriddenByCSS=,org.eclipse.cdt.make.ui.editor.comment,org.eclipse.cdt.make.ui.editor.macro_ref,org.eclipse.cdt.make.ui.editor.macro_def,org.eclipse.cdt.make.ui.editor.default,org.eclipse.cdt.make.ui.editor.function,org.eclipse.cdt.make.ui.editor.keyword,
 predarkestdark.org.eclipse.cdt.make.ui.editor.comment=125,140,147
 predarkestdark.org.eclipse.cdt.make.ui.editor.default=224,226,228

@@ -1,10 +1,10 @@
-defaultColor=224,226,228
+defaultColor=255,255,255
 eclipse.preferences.version=1
-nullColor=224,226,228
+nullColor=255,255,255
 overriddenByCSS=,defaultColor,nullColor,stringColor,valueColor,
 predarkestdark.defaultColor=224,226,228
 predarkestdark.nullColor=224,226,228
 predarkestdark.stringColor=236,118,0
 predarkestdark.valueColor=103,140,177
-stringColor=236,118,0
-valueColor=103,140,177
+stringColor=71,116,136
+valueColor=53,122,143

@@ -1,7 +1,7 @@
-//editors/optionsParameters.background=41,49,52
-//editors/optionsParameters.foreground=224,226,228
-//editors/optionsProposals.background=41,49,52
-//editors/optionsProposals.foreground=224,226,228
+//editors/optionsParameters.background=25,25,25
+//editors/optionsParameters.foreground=255,255,255
+//editors/optionsProposals.background=25,25,25
+//editors/optionsProposals.foreground=255,255,255
 //predarkestdark.editors/optionsParameters.background=41,49,52
 //predarkestdark.editors/optionsParameters.foreground=224,226,228
 //predarkestdark.editors/optionsProposals.background=41,49,52
